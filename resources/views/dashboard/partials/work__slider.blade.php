@@ -140,7 +140,7 @@
                 </div>
                 <div class=" p-2 justify-center items-center flex">
                     <div class=" border border-5 max-h-full max-w-fit">
-                        <img src="/img/Warung3n-1.png" alt="" srcset="" class=" h-64 hover:scale-110 transition duration-500 cursor-pointer object-cover">
+                        <img src="/img/Warung3n-1.PNG" alt="" srcset="" class=" h-64 hover:scale-110 transition duration-500 cursor-pointer object-cover">
                     </div>
                 </div>
             </div>
