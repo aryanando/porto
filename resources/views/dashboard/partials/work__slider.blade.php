@@ -31,7 +31,7 @@
             <header class="mb-2">
                 <img class="inline-flex rounded-full shadow mb-3" src="https://picsum.photos/200/300" width="44"
                     height="44" alt="Icon" />
-                <h1 class="text-xl font-bold text-slate-900">Focus on the big picture</h1>
+                <h1 class="text-xl font-bold text-slate-900">COMING SOON</h1>
             </header>
             <div class="text-sm leading-relaxed text-slate-500 space-y-4 mb-2">
                 <p>
@@ -76,7 +76,7 @@
             <header class="mb-2">
                 <img class="inline-flex rounded-full shadow mb-3" src="https://picsum.photos/200/300" width="44"
                     height="44" alt="Icon" />
-                <h1 class="text-xl font-bold text-slate-900">Focus on the big picture</h1>
+                <h1 class="text-xl font-bold text-slate-900">COMING SOON</h1>
             </header>
             <div class="text-sm leading-relaxed text-slate-500 space-y-4 mb-2">
                 <p>
@@ -119,22 +119,31 @@
         peer-checked/05:-translate-x-40
         peer-checked/05:z-30
     ">
-        <label class="absolute inset-0" for="article-03"><span class="sr-only">WARUNG 3N</span></label>
+        <label class="absolute inset-0" for="article-03"><span class="sr-only">SISTEM WARUNG 3N</span></label>
         <article class="bg-white p-6 rounded-lg shadow-2xl h-96">
-            <header class="mb-2">
-                <img class="inline-flex rounded-full shadow mb-3" src="https://picsum.photos/200/300" width="44"
-                    height="44" alt="Icon" />
-                <h1 class="text-xl font-bold text-slate-900">WARUNG 3N</h1>
-            </header>
-            <div class="text-sm leading-relaxed text-slate-500 space-y-4 mb-2">
-                <p>
-                    Merupakan aplikasi yang dibuat untuk mempermudah pencatatan harga.
-                </p>
+            <div class="grid grid-cols-2">
+                <div>
+                    <header class="mb-2">
+                        <img class="inline-flex rounded-full shadow mb-3" src="https://picsum.photos/200/300"
+                            width="44" height="44" alt="Icon" />
+                        <h1 class="text-xl font-bold text-slate-900">SISTEM WARUNG 3N</h1>
+                    </header>
+                    <div class="text-sm leading-relaxed text-slate-500 space-y-4 mb-2">
+                        <p>
+                            Merupakan aplikasi yang dibuat untuk mempermudah pencatatan harga.
+                        </p>
+                    </div>
+                    <footer class="text-right">
+                        <a class="text-sm font-medium text-indigo-500 hover:underline"
+                            href="https://warung3n.arsya.tech" target="blank">Live Demo</a>
+                    </footer>
+                </div>
+                <div class=" p-2 justify-center items-center flex">
+                    <div class=" border border-5 max-h-full max-w-fit">
+                        <img src="/img/Warung3n-1.png" alt="" srcset="" class=" h-64 hover:scale-110 transition duration-500 cursor-pointer object-cover">
+                    </div>
+                </div>
             </div>
-            <footer class="text-right">
-                <a class="text-sm font-medium text-indigo-500 hover:underline" href="https://warung3n.arsya.tech" target="blank">View Demo
-                    -></a>
-            </footer>
         </article>
     </div>
 
@@ -170,7 +179,7 @@
             <header class="mb-2">
                 <img class="inline-flex rounded-full shadow mb-3" src="https://picsum.photos/200/300" width="44"
                     height="44" alt="Icon" />
-                <h1 class="text-xl font-bold text-slate-900">Focus on the big picture</h1>
+                <h1 class="text-xl font-bold text-slate-900">COMING SOON</h1>
             </header>
             <div class="text-sm leading-relaxed text-slate-500 space-y-4 mb-2">
                 <p>
@@ -217,7 +226,7 @@
             <header class="mb-2">
                 <img class="inline-flex rounded-full shadow mb-3" src="https://picsum.photos/200/300" width="44"
                     height="44" alt="Icon" />
-                <h1 class="text-xl font-bold text-slate-900">Focus on the big picture</h1>
+                <h1 class="text-xl font-bold text-slate-900">COMING SOON</h1>
             </header>
             <div class="text-sm leading-relaxed text-slate-500 space-y-4 mb-2">
                 <p>
