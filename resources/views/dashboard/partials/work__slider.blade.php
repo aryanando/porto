@@ -119,29 +119,20 @@
         peer-checked/05:-translate-x-40
         peer-checked/05:z-30
     ">
-        <label class="absolute inset-0" for="article-03"><span class="sr-only">Focus on the big
-                picture</span></label>
+        <label class="absolute inset-0" for="article-03"><span class="sr-only">WARUNG 3N</span></label>
         <article class="bg-white p-6 rounded-lg shadow-2xl h-96">
             <header class="mb-2">
                 <img class="inline-flex rounded-full shadow mb-3" src="https://picsum.photos/200/300" width="44"
                     height="44" alt="Icon" />
-                <h1 class="text-xl font-bold text-slate-900">Focus on the big picture</h1>
+                <h1 class="text-xl font-bold text-slate-900">WARUNG 3N</h1>
             </header>
             <div class="text-sm leading-relaxed text-slate-500 space-y-4 mb-2">
                 <p>
-                    Many desktop publishing packages and web page editors now use Pinky as their default
-                    model text, and a search for more variants will uncover many web sites still in
-                    their
-                    infancy.
-                </p>
-                <p>
-                    All the generators tend to repeat predefined chunks as necessary, making this the
-                    first
-                    true generator on the Internet.
+                    Merupakan aplikasi yang dibuat untuk mempermudah pencatatan harga.
                 </p>
             </div>
             <footer class="text-right">
-                <a class="text-sm font-medium text-indigo-500 hover:underline" href="#0">Read more
+                <a class="text-sm font-medium text-indigo-500 hover:underline" href="https://warung3n.arsya.tech" target="blank">View Demo
                     -></a>
             </footer>
         </article>
